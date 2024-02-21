@@ -1,1 +1,98 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Samuel",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Samuel Franklin ",
+  "headerTaglineThree": "Web development and Machine Learning enthusiast",
+  "headerTaglineFour": " based in  Fairfax, USA.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/samuel-frankliln"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/samuel-franklin-a918961b1/"
+    },
+    { "id": "3", "title": "Email", "link": "mailto:samuel199923@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Water Depth Estimation using DNN",
+      "description": "Effectively conducted the research and implementation of an advanced algorithm, integrating SVMs and Deep Neural Networks to estimate shallow water depths from Sentinel-2 Satellite image bands achieving more than 90% accuracy",
+      "imageSrc": "https://scihub.copernicus.eu/twiki/pub/SciHubWebPortal/WebPreferences/background_northwestsardinia.jpg",
+      "url": "https://docs.google.com/document/d/1uQ-hFzZMdI8cgxqJg16yU5nkRln3fgORTp12JbymIyI/edit?usp=sharing"
+    },
+    {
+      "id": "2",
+      "title": "Connect 4",
+      "description": "Its a connect 4 game with a twist,instead of making horizontal ,vertical or diagonal lines of four our objective here is to make sqaures.",
+      "imageSrc": "https://cdn0.iconfinder.com/data/icons/board-games/48/Paul-28-512.png",
+      "url": "https://github.com/samuel-frankliln/connect4-square"
+    },
+    {
+      "id": "3",
+      "title": "Angular Page with bootstrap form ",
+      "description": "Created a Page with Angular and Bootstrap to fill in a survey page with form validations and hosted on Amazon S3",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+      "url": "https://sam18bucket.s3.amazonaws.com/swe/home.html"
+    },
+    {
+      "id": "4",
+      "title": "MNIST GAN",
+      "description": "Developing a GAN for generating images requires both a discriminator convolutional neural network model for classifying whether a given image is real or generated and a generator model that uses inverse convolutional layers to transform an input to a full two-dimensional image of pixel values.",
+      "imageSrc": "https://machinelearningmastery.com/wp-content/uploads/2019/04/Plot-of-100-GAN-Generated-MNIST-Figures-After-10-Epochs.png",
+      "url": "https://github.com/samuel-frankliln/MNIST_GAN"
+    },
+    {
+      "id": "5",
+      "title": "Image Colorisation",
+      "description": "Colorize black and white images or videos using the image colorizer. Add color to old family photos and historic images, or bring an old film back to life with colorization.",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqorI48F3Cw0f4BPW9lYH8paD1LC8m2UCg8g&usqp=CAU",
+      "url": "https://github.com/samuel-frankliln/image-colorisation-vgg16-cnn"
+    },
+    {
+      "id": "6",
+      "title": "Simuualed Annealing",
+      "description": "Simulated annealing is a method for solving unconstrained and bound-constrained optimization problems",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/10/Travelling_salesman_problem_solved_with_simulated_annealing.gif",
+      "url": "https://github.com/samuel-frankliln/simulated-annealing"
+    }
+  ],
+ 
+  "aboutpara": "I am an ambitious graduate student at George Mason University, driven by a profound passion for deep learning, competitive coding, and web development. With a dedicated and analytical approach, I strive to solve problems and explore new possibilities with a curious mindset. I possess exceptional proficiency in the programming languages of Python and C++, utilizing them effectively in my pursuits",
+  "resume": {
+    "tagline": "👋  I'm a software and machine learning student @ George Mason University",
+    "description": "Currently looking Full time Oppurtunites 2024. SDE and machine learning roles",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2023 - Present",
+        "type": "Part  Time",
+        "position": "Frontend Engineer at  Housing and Residence Life",
+        "bullets": "Led a cross-functional team in the redesign and continuous improvement of web pages"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Internship",
+        "position": "National Institute Of Electronics And Information - Research Intern",
+        "bullets": "Transformed Cycle-Generative Adversarial Models to enhance Style transfer application  resulting in a 50% reduction in training time while maintaining the same results on training data"
+      }
+    ],
+    "education": {
+      "universityName": "George Mason University",
+      "universityDate": "2022-2024",
+      "universityPara": "Coursework: Advanced ML, Artificial Intelligence, UI/UX , Web development and Algorithms"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
